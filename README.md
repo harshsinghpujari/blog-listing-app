@@ -63,5 +63,6 @@ Harsh Singh Pujari
 
 ## Demo Video
 
-(Include your 1-minute demo recording link here once uploaded)
+[Watch the 1-minute demo video here] (https://drive.google.com/file/d/1iEsfA4bxRB6ASIwBRo6DHB6S9uYTmzm5/view?usp=drive_link)
+
 

@@ -1,12 +1,67 @@
-# React + Vite
+# 📝 Blog Listing App – React Internship Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple blog listing application built with React and Vite.  
+Users can add blogs with title, content, and date. Data is saved locally in the browser using localStorage.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+[https://merry-puppy-00e2c4.netlify.app/](https://merry-puppy-00e2c4.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- Add a new blog post with title, content, and date  
+- View a list of all added blogs  
+- Data persistence with localStorage (blogs remain after page refresh)  
+- Clean, centered UI with responsive layout  
+
+---
+
+## Technologies Used
+
+- React with Hooks (`useState`, `useEffect`)  
+- Vite for development  
+- JavaScript, HTML, CSS  
+- localStorage for data persistence  
+- Deployed on Netlify  
+
+---
+
+## How to Run Locally
+
+1. Clone the repo:  
+   `git clone https://github.com/harshsinghpujari/blog-listing-app.git`
+
+2. Navigate to the project directory:  
+   `cd blog-listing-app`
+
+3. Install dependencies:  
+   `npm install`
+
+4. Start the development server:  
+   `npm run dev`
+
+5. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## Deployment
+
+Built with `npm run build` and deployed on Netlify.
+
+---
+
+## Author
+
+Harsh Singh Pujari  
+[GitHub](https://github.com/harshsinghpujari)
+
+---
+
+## Demo Video
+
+(Include your 1-minute demo recording link here once uploaded)
+

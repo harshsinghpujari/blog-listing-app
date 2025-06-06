@@ -54,10 +54,10 @@ Built with `npm run build` and deployed on Netlify.
 
 ---
 
-## Author
+## 🙌 Author
 
-Harsh Singh Pujari  
-[GitHub](https://github.com/harshsinghpujari)
+Himanshu Singh
+https://github.com/harshsinghpujari 
 
 ---
 
